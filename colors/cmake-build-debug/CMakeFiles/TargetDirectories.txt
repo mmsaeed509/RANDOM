@@ -1,0 +1,3 @@
+/home/ozil/CLionProjects/colors/cmake-build-debug/CMakeFiles/colors.dir
+/home/ozil/CLionProjects/colors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ozil/CLionProjects/colors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
