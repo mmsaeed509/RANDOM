@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/ozil/JetBrains/clion-2022.3/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/ozil/CLionProjects/colors -B/home/ozil/CLionProjects/colors/cmake-build-debug
+  command = /home/ozil/JetBrains/clion-2022.3/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/ozil/GitHub/RANDOM/colors -B/home/ozil/GitHub/RANDOM/colors/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

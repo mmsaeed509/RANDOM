@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/ozil/CLionProjects/colors/cmake-build-debug",
-		"source" : "/home/ozil/CLionProjects/colors"
+		"build" : "/home/ozil/GitHub/RANDOM/colors/cmake-build-debug",
+		"source" : "/home/ozil/GitHub/RANDOM/colors"
 	},
 	"version" : 
 	{
