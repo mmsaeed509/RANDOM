@@ -89,7 +89,7 @@ static string HIGH_INTENSITY_BACKGROUND_PURPLE = "\033[0;105m";
 static string HIGH_INTENSITY_BACKGROUND_CYAN   = "\033[0;106m";
 static string HIGH_INTENSITY_BACKGROUND_WHITE  = "\033[0;107m";
 
-class COLORS {
+class CPP_COLORS {
 
     // COLORS in C++
 

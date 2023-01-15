@@ -3,4 +3,4 @@ project(colors)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(colors main.cpp COLORS.h)
+add_executable(colors main.cpp COLORS.h ../C-Colors/main.c ../C-Colors/main.c)

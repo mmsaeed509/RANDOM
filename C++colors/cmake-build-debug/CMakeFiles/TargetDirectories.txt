@@ -1,3 +1,0 @@
-/home/ozil/GitHub/RANDOM/colors/cmake-build-debug/CMakeFiles/colors.dir
-/home/ozil/GitHub/RANDOM/colors/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ozil/GitHub/RANDOM/colors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
