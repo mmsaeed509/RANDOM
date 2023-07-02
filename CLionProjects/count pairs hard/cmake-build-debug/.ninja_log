@@ -1,0 +1,9 @@
+# ninja log v5
+0	988	1670097245592844350	CMakeFiles/count_pairs_hard.dir/main.cpp.o	f71a944fdc2b3297
+989	1036	1670097245639514836	count_pairs_hard	a79f84363a4fcd38
+0	1038	1670100618346083170	CMakeFiles/count_pairs_hard.dir/main.cpp.o	f71a944fdc2b3297
+1038	1134	1670100618439417059	count_pairs_hard	a79f84363a4fcd38
+1	955	1670100758733616206	CMakeFiles/count_pairs_hard.dir/main.cpp.o	f71a944fdc2b3297
+955	1000	1670100758780283170	count_pairs_hard	a79f84363a4fcd38
+1	879	1670101428546089113	CMakeFiles/count_pairs_hard.dir/main.cpp.o	f71a944fdc2b3297
+879	922	1670101428589422387	count_pairs_hard	a79f84363a4fcd38
